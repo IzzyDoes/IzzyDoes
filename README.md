@@ -1,6 +1,6 @@
 #  Web Developer
 ## About me
-👋👋👋 Hi, My name is Amenya, I am from the southern part of Nigeria :nigeria:. </br> 
+👋👋👋 Hi, My name is Amenya, I am a Sofwater and Web developer, currently a freelance developer. Born in Nigeria :nigeria:. </br> 
 🐌✏️ I am currently a first year communication student in HAN university of applied sciences, in the Nettherlands :netherlands: ✏️ . </br>
 </br>
 </br>

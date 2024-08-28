@@ -5,7 +5,7 @@
 </br>
 </br>
 ## Development Journey
-I started my dev journey in 2013, as a student of Information technology in the Eastern Mediterranean University, Cyprus, I obtained 215 ECTS on the way to obtain my BSc in Information Technology. 
+I started my dev journey in 2013, as a student of Information technology in the Eastern Mediterranean University, Cyprus 
 I started off creating simple websites using adobe dreamweaver. I got familiar with HTML and CSS, and this opened a new world of possibilities. 
 </br>
 For a while, I got into creating games using Unity game Engine and C#. I have some experience with object-oriented programming using C++ as my main tool.
@@ -19,10 +19,9 @@ Languages I am familiar with can be found below:
 |     3| HTML       |
 |     4| ReactJS    |
 |     5| C++        |
-|     6| C#         |
-|     7| Java       |
-|     8| MongoDB    |
-|     9| SQL        |
+|     6| C#         |      
+|     7| MongoDB    |
+|     8| SQL        |
 
 </br>
 

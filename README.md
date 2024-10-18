@@ -21,8 +21,9 @@ Languages I am familiar with can be found below:
 |     5| C++        |
 |     6| C#         |      
 |     7| MongoDB    |
-|     8| SQL        |
-
+|     8| NodeJS     |
+|     9| NextJS     |
+|    10| SQL        |
 </br>
 
 <picture>

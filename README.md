@@ -1,7 +1,7 @@
 #  Web Developer
 ## About me
 👋👋👋 Hi, My name is Amenya, I am a Software developer mainly web applications, currently a freelance developer. Born in Nigeria :nigeria:. </br> 
-🐌✏️ I am currently a Second year communication student in HAN university of applied sciences, in the Nettherlands :netherlands: ✏️ . </br>
+🐌✏️ I am currently a Final year Cmputer Science student in Open Institute of Technology, in the Nettherlands :netherlands: ✏️ . </br>
 </br>
 </br>
 ## Development Journey

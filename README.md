@@ -4,14 +4,14 @@
 </br>
 </br>
 ## Development Journey
-I started my dev journey in 2013, backl in my uni days, although i do find it quite interesting it took me a couple years to get a hang of it all. Not that i necessarily had issues understanding it all,
+I started my dev journey in 2013, backl in my uni days, although i do find it quite interesting it took me a couple years to get a hang of it all. Not that I necessarily had issues understanding it all,
 but I'd say difficulties stemmed mainly from not seeing any real implications of programming languages.. I guess now I realize the onus was on oneself but for a long time I'm just solving bland exam
 algorithm focused problems which I find quite repetitive and not motivativating enough to really enjoy the beauty of creation, to an extent, there is some art in code I would say.
 I started off creating simple websites with the infamous adobe dreamweaver. I got familiar with HTML and CSS, and this opened a new world of possibilities. 
 </br>
 The real shift happened when I got into creating games with Unity so I had to write some C#, up till that point, I had never had such gratification from creating something. It was mind blowing I could do
 this for free basically, just costs time, patience, and a lot of math. 
-I was able to really implkement OOP and understand the concept in real world use, and not just some abstract exam. I realized basically, all programming languages are weirdly interlinked, and the only reason
+I was able to really implement OOP and understand the concept in real world use, and not just some abstract exam. I realized basically, all programming languages are weirdly interlinked, and the only reason
 we do not have one language is cause a bunch of perfectionist-ass nerds decide their predecessor is just not good enough, and we will never lack perfectionist-ass nerds so instead of making one Omega language 
 which I think we're closer than ever to, we get the swarm we have today which are really all the same inherently aside a few exceptions.
 Excuse the rant lol... I had to study JAVA in uni. Iykyk

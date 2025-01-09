@@ -22,12 +22,12 @@ following days, I will upload to github, also remake of my portfolio and I need 
 2025, I think will be amazing as a dev. 
 Languages I am familiar with can be found below:
 </br>
-| Rank | Languages  |
-|-----:|------------|
-|     1| Javascript | mainly use this
-|     2| C++        |
-|     3| C#         |
-|     4| Python     |  recently picked this up and loving it so will be working on a big poroject with this soon, web based
+| Rank | Languages                                                                                                      |
+|-----:|----------------------------------------------------------------------------------------------------------------|
+|     1| Javascript (mainly use this)                                                                                   | 
+|     2| C++                                                                                                            |
+|     3| C#                                                                                                             |
+|     4| Python (recently picked this up and loving it so will be working on a big poroject with this soon, web based)  |  
 </br>
 
 <picture>

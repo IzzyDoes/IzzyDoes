@@ -4,7 +4,7 @@
 </br>
 </br>
 
-I've worked on a lot of personal projects.... Sharing them here
+I've worked on a lot of personal projects.... Sharing them here </br>
 Stack for now
 </br>
 | Rank | Languages                                                                                                      |
